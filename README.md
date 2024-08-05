@@ -59,7 +59,7 @@ pip install re
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/kapilsinghnegi/Fake-News-Detection.git
+git clone https://github.com/alok507/Fake-News-Detection.git
 ```
 
 2. Navigate to the project directory:
@@ -88,7 +88,7 @@ Once you are satisfied with the performance of a particular classifier, you can 
 ## Project Screenshots
 
 #### Not a Fake News
-![Not a Fake News](https://github.com/kapilsinghnegi/Fake-News-Detection/assets/118688453/3d079c46-118a-4c53-a515-43b9146001c5)
+![Not a Fake News](https://github.com/alok507/Fake-News-Detection/assets/118688453/3d079c46-118a-4c53-a515-43b9146001c5)
 
 #### Fake News
-![Fake News](https://github.com/kapilsinghnegi/Fake-News-Detection/assets/118688453/2f5262f7-801d-4293-824c-13c29fb97fed)
+![Fake News](https://github.com/alok507/Fake-News-Detection/assets/118688453/2f5262f7-801d-4293-824c-13c29fb97fed)
